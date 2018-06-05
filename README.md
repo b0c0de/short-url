@@ -2,7 +2,6 @@
 <html>
 
 <head>
-    <title>URL Shortener Microservice | Backend Challenges | Free Code Camp</title>
     <link rel="shortcut icon" href="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04fe89a2-7a7b-47ed-bc50-85cc00573232/rocket.gif"
         type="image/x-icon" />
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
