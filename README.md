@@ -26,35 +26,6 @@
                 </li>
             </ul>
         </div>
-
-        <h2>
-            Example creation usage:
-        </h2>
-        <code>
-            https://bocode-url-short.glitch.me/http://www.google.com
-        </code>
-        <br>
-        <h2>
-            Example creation output:
-        </h2>
-        <code>
-{"orginal_url":"https://bocode-url-short.glitch.me/http://www.google.com","short_url":"https://bocode-url-short.glitch.me/198"}        
-      </code>
-        <br>
-        <h2>
-            Usage:
-        </h2>
-        <code>
-            https://bocode-url-short.glitch.me/198
-        </code>
-        <br>
-        <h2>
-            Will redirect to:
-        </h2>
-        <code>
-            https://www.google.com/
-        </code>
-        <br>
     </div>
 </body>
 
